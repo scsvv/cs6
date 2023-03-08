@@ -6,7 +6,7 @@ def decoding(N, pow):
         '4000': 'MU', 
         '5000': 'V'
     }
-    print(N*10**(pow - 1))
+    # print(N*10**(pow - 1))
 
 
 
